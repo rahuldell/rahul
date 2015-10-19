@@ -6,6 +6,7 @@ int a=2, b=3;
 int sum=0;
 sum=a+b;
 printf("add this line to check the push operation");
+printf("add this line 2 to check the push operation");
 printf("%d"sum);
 getch();
 }
